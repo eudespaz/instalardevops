@@ -1,4 +1,5 @@
-utor: Eudes Paz (eudespaz@live.com)
+#!/bin/bash
+#Autor: Eudes Paz (eudespaz@live.com)
 #Script para instalar docker-compose, racher, build das imagens redis, node, nginx
 # 16/05/2021 hora 13:04 
 
